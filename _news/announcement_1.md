@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-08-13
 inline: true
 related_posts: false
 ---
-
-A simple inline announcement.
+Our paper on “[mULLER: A Modular Monad-Based Semantics of the Neurosymbolic ULLER Framework](https://openreview.net/forum?id=zIsnMqATI6)” is accepted at NeSy 2025! This was my main project before starting my PhD.
