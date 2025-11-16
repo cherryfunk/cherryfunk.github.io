@@ -3,95 +3,68 @@
   contents:
     - name: Full Name
       value: Daniel Romero Schellhorn
-    - name: Date of Birth
-      value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: German native, English C2, Spanish C1, Kleines Latinum
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master Student in Mathematics & Cognitive Science
+      institution: University Osnabrück, Osnabrück, Germany
+      year: Oct 21 - today
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - M.Sc. Cognitive Science with focus on AI (NLP, Ontologies, Knowledge Representation)
+        - M.Sc. Mathematics (numerical applied math, abstract algebra, category theory)
+        - Preliminary grade: 1.0
+    - title: B.Sc. in Mathematics
+      institution: Georg-August-University, Göttingen, Germany
+      year: Oct 17 - Sep 22
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis: "Comparison between EPAPC and PAPC as Methods for Pointwise Quadratically Supportable Convex-Concave Saddle Point Problems" (Grade: 1.3)
+        - Focus on numerical optimization and category theory applied to AI
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Data Manager & Financial Manager
+      institution: Universität Osnabrück & Universidad Nacional de Costa Rica, Costa Rica & Osnabrück, Germany
+      year: Feb 24 - today
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Managing customer and producer data
+        - Calculating and executing financial concepts (like Break-Even Analysis)
+        - Serving as SCRUM master using Notion
+    - title: Student Assistant
+      institution: DFKI (Deutsches Forschungszentrum für Künstliche Intelligenz), Osnabrück, Germany
+      year: Jun 23 - today
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Using ROS and Python to teach a robot arm
+        - Developing a probability model for merging ontologies with real-world data for object recognition
+        - Collaborating with colleagues using Python, VS Code, GitLab, and Airflow
+    - title: System Admin Assistant & Research Assistant & Tutor
+      institution: Georg-August-Universität Göttingen, Göttingen, Germany
+      year: Oct 19 - Sep 22
       description:
+        - Maintaining the Linux (NixOS) system structure
+        - Providing IT support
+        - Restructuring data I/O for a mathematical optimization toolbox using Python and VS Code
+        - Researching optimization algorithms
+        - Tutoring various classes
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Computer Languages
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Working knowledge: Python, Latex, Bash
+        - Basics: OWL, Haskell, Git
+    - title: Software
       items:
-        - Description 1.
-        - Description 2.
+        - Excel, PP, Word, Notion, VS Code, Slack, Figma, Chat GPT (API)
+    - title: Languages
+      items:
+        - German native, English C2, Spanish C1, Kleines Latinum
 
-- title: Other Interests
+- title: Interests & Hobbies
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Interests:</u> Yoga (Certified Yoga Teacher), Ayurvedic Cooking, Meditation, Calisthenics, Afrobeats Dancing, Breakdance, Salsa Cubana, Productivity Systems, Coding, Ontology Engineering, Jungian Psychology, Lucid Dreaming, AEGEE
