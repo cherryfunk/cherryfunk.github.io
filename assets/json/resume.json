@@ -97,16 +97,7 @@
       "name": "Software",
       "level": "",
       "icon": "",
-      "keywords": [
-        "Excel",
-        "PowerPoint",
-        "Word",
-        "Notion",
-        "VS Code",
-        "Slack",
-        "Figma",
-        "Chat GPT (API)"
-      ]
+      "keywords": ["Excel", "PowerPoint", "Word", "Notion", "VS Code", "Slack", "Figma", "Chat GPT (API)"]
     }
   ],
   "languages": [
